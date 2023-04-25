@@ -9,7 +9,7 @@ Usando AWS como o banco de dados DynamoDB foram criadas tabelas com Álbuns da b
 ### Tabelas 
 ![preview](/.github/tabela.png)
 
-### Índices secundários globais
+### Itens
 ![preview](./.github/../../.github/indices.png)
 
 ### Serviço utilizado
